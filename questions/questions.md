@@ -60,7 +60,7 @@ Please find out more by checking our documentation: https://www.algolia.com/doc/
 Please check the link below for more information:
 https://www.algolia.com/doc/guides/sending-and-managing-data/prepare-your-data/how-to/indexing-long-documents/
 
-I hope this helps Carrie, please let me know if you need further assistance with any of these steps or if you would like guidance on reaching out to our enterprise team.
+I hope this helps Carrie, please let me know if you need further assistance with any of these steps.
 
 Best regards,
 Maykel
