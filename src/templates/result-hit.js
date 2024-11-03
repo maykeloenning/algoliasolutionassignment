@@ -21,7 +21,6 @@ const resultHit = (hit) => `<a class="result-hit">
         "Product Added to Cart",  {
               // Special subtype
               eventSubtype: "addToCart",
-              // An array of objects representing each item added to the cart
               objectData: [
                 {
                   // The price value 
