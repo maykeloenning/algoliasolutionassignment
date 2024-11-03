@@ -27,6 +27,7 @@ Your insights are valuable in helping us continuously improve the user experienc
 Please don’t hesitate to get back to me if there is anything else we can assist you with.
 
 Best Regards,
+
 Maykel
   
 --
@@ -63,6 +64,7 @@ https://www.algolia.com/doc/guides/sending-and-managing-data/prepare-your-data/h
 I hope this helps Carrie, please let me know if you need further assistance with any of these steps.
 
 Best regards,
+
 Maykel
 
 --
@@ -84,7 +86,9 @@ Hi Marc,
 Thank you for reaching out!
 
 The error message "Uncaught ReferenceError: searchkit is not defined" typically occurs when the searchkit library is either missing or incorrectly imported into your project.
+
 If you still believe it is set up correctly, could you please provide the API App ID and Index Name to investigate further?
 
 Best Regards,
+
 Maykel 
